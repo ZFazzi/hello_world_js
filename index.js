@@ -7,8 +7,6 @@ let favoriteColor = "Yellow";
 
 console.log('My name is ' + name,', my age is ' + age, 'and my favorite color is ' + favoriteColor); 
 
-
-
 let num1 = 8;
 let num2 = 6;
 
