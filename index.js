@@ -1,8 +1,9 @@
+
 // Ask the user to enter a price tag using prompt(), for example: 49.99
 let price = prompt("Enter the price, for example: 49.99");
 
 // Convert the input from string to number
-price = Number(price);
+parseInt(price);
 
 // Print out the chosen price
 console.log(`Chosen price: $${price}`);
